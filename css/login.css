@@ -1,0 +1,15 @@
+.main {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 10%;
+	padding-left: 10%;
+	padding-right: 10%;
+	width: 100%;
+}
+
+.log_form {
+	margin-left: 10%;
+	margin-right: 10%;
+}
